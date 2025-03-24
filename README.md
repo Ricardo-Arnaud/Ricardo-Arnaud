@@ -47,6 +47,8 @@
    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
    
    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
+</div>
 
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardo-arnaud/ricardo-arnau/output/github-contribution-grid-snake-dark.svg">
@@ -54,5 +56,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricardo-arnau/ricardo-arnau/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
+
      
